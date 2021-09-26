@@ -2,16 +2,16 @@
 # CoviWare
 
 A Flutter Application for general awareness over Covid-19 with 
-some special features integrated withina and bringing whole bunch of awareness related to
+some special features integrated within and bringing whole bunch of awareness related to
 this disease under one roof.
 
 
 
 ## Features
 
-- Covid general awareness through FAQ pages and linked WHO sites
-- Vaccine slot search through pincode and date
-- News section for health updates around the world
+- Covid general awareness through FAQ pages and linked WHO sites.
+- Vaccine slot search through pincode and date with form validation.
+- News section for health updates around the world.
 - Covid World report with dynamic data and Comparison with India.
 
 
@@ -44,7 +44,7 @@ https://user-images.githubusercontent.com/41218074/134806229-1712e05c-9376-44a0-
 ![App Screenshot](https://user-images.githubusercontent.com/41218074/134806888-167b406e-1be8-4cfd-b9c0-7172b6f6102d.jpg)
 ##
 ### Demo video of Slot Booking Page
-https://user-images.githubusercontent.com/41218074/134806229-1712e05c-9376-44a0-bd6b-6e26a425db09.mp4
+https://user-images.githubusercontent.com/41218074/134810472-5a946b6a-2072-47da-966e-72c82f37517e.mp4
 
 ##
 ## Health News update Screen
