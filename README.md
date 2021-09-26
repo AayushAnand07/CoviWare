@@ -21,7 +21,7 @@ this disease under one roof.
 To install this project run
 
 ```bash
-  git clone 
+  git clone https://github.com/AayushAnand07/CoviWare.git
    ```
 
 Open flie in  your code editor 
