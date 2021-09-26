@@ -26,7 +26,7 @@ To install this project run
 
 Open flie in  your code editor 
 ```bash
-  Flutter run
+  flutter run --no-sound-null-safety
    ```
  Get the dependencies
  
